@@ -1,3 +1,7 @@
+// Trigger CI run on feature branch
+console.log("Testing CI on feature branch");
+// CI test change
+console.log("Testing CI with a Pull Request");
 const express = require('express');
 const app = express();
 app.use(express.json());
