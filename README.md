@@ -12,3 +12,4 @@ cd api
 npm install
 npm start
 ```
+# Retrying CI after cancel
